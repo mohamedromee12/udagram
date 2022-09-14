@@ -1,0 +1,12 @@
+# APP-Dependencies
+- Node.js
+- NPM
+- Express
+- Angular
+- TypeScript
+- mocha
+- cors
+- body-parser
+- pg
+- sequelize
+- dotenv
